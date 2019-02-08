@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.3
+
+* Add bob.config parameter `InstallWebConfigWebConfigPath` to define fixed location of Sitecore web.config file (and prevent download it from respective Nuget package)
+
 ## 3.2.1
 
 * Remove documents generation
